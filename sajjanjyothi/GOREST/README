@@ -1,2 +1,2 @@
 Simple implementation of REST APIs using golang
-used third party routing package mux
+used third party routing package gorilla mux
